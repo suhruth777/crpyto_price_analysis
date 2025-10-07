@@ -64,8 +64,5 @@ For fully offline reproducibility, consider exporting any fetched datasets to a 
 - Store parameters (tickers, date ranges, lookback windows) in a small `config.yaml`.
 - Include **unit checks** on data integrity (missing values, duplicated timestamps).
 
----
 
-**Author**: Your Name  
-**License**: MIT (or your preferred license)
 
